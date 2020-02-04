@@ -23,6 +23,7 @@ public class Praktijkopdracht extends Applet {
         uitkomst = (int) uitkomst;
         uitkomst = uitkomst / 10;
 
+
     }
 
     @Override
